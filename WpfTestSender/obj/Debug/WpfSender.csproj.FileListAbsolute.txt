@@ -1,0 +1,13 @@
+D:\Practica\WpfSender\WpfSender\bin\Debug\WpfSender.exe.config
+D:\New folder\WPF\Sender\WpfSender\bin\Debug\WpfSender.exe.config
+D:\New folder\WPF\Sender\WpfSender\bin\Debug\WpfSender.exe
+D:\New folder\WPF\Sender\WpfSender\bin\Debug\WpfSender.pdb
+D:\New folder\WPF\Sender\WpfSender\obj\Debug\MainWindow.baml
+D:\New folder\WPF\Sender\WpfSender\obj\Debug\MainWindow.g.cs
+D:\New folder\WPF\Sender\WpfSender\obj\Debug\App.g.cs
+D:\New folder\WPF\Sender\WpfSender\obj\Debug\WpfSender_MarkupCompile.cache
+D:\New folder\WPF\Sender\WpfSender\obj\Debug\WpfSender.g.resources
+D:\New folder\WPF\Sender\WpfSender\obj\Debug\WpfSender.Properties.Resources.resources
+D:\New folder\WPF\Sender\WpfSender\obj\Debug\WpfSender.csproj.GenerateResource.Cache
+D:\New folder\WPF\Sender\WpfSender\obj\Debug\WpfSender.exe
+D:\New folder\WPF\Sender\WpfSender\obj\Debug\WpfSender.pdb

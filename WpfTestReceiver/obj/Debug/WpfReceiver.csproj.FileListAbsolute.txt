@@ -1,0 +1,13 @@
+D:\New folder\WPF\Receiver\WpfReceiver\WpfReceiver\bin\Debug\WpfReceiver.exe.config
+D:\New folder\WPF\Receiver\WpfReceiver\WpfReceiver\bin\Debug\WpfReceiver.exe
+D:\New folder\WPF\Receiver\WpfReceiver\WpfReceiver\bin\Debug\WpfReceiver.pdb
+D:\New folder\WPF\Receiver\WpfReceiver\WpfReceiver\obj\Debug\WpfReceiver.csprojResolveAssemblyReference.cache
+D:\New folder\WPF\Receiver\WpfReceiver\WpfReceiver\obj\Debug\MainWindow.baml
+D:\New folder\WPF\Receiver\WpfReceiver\WpfReceiver\obj\Debug\MainWindow.g.cs
+D:\New folder\WPF\Receiver\WpfReceiver\WpfReceiver\obj\Debug\App.g.cs
+D:\New folder\WPF\Receiver\WpfReceiver\WpfReceiver\obj\Debug\WpfReceiver_MarkupCompile.cache
+D:\New folder\WPF\Receiver\WpfReceiver\WpfReceiver\obj\Debug\WpfReceiver.g.resources
+D:\New folder\WPF\Receiver\WpfReceiver\WpfReceiver\obj\Debug\WpfReceiver.Properties.Resources.resources
+D:\New folder\WPF\Receiver\WpfReceiver\WpfReceiver\obj\Debug\WpfReceiver.csproj.GenerateResource.Cache
+D:\New folder\WPF\Receiver\WpfReceiver\WpfReceiver\obj\Debug\WpfReceiver.exe
+D:\New folder\WPF\Receiver\WpfReceiver\WpfReceiver\obj\Debug\WpfReceiver.pdb
